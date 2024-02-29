@@ -1,6 +1,6 @@
 <div class="card card-outline card-primary">
 	<div class="card-header">
-		<h3 class="card-title">List of Received Orders</h3>
+		<h3 class="card-title">List of our Received Orders</h3>
         <!-- <div class="card-tools">
 			<a href="<?php echo base_url ?>admin/?page=purchase_order/manage_po" class="btn btn-flat btn-primary"><span class="fas fa-plus"></span>  Create New</a>
 		</div> -->
